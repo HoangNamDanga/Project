@@ -1,0 +1,996 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\stationrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\stationrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\stationeryitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\stationeryitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\stationerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\stationerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\request\\approvalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\request\\approvalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\migrations\\20240912143053_appvpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\migrations\\20240912143053_appvpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\imp\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\imp\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\response\\auditlogresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\response\\auditlogresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\response\\approvalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\response\\approvalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\mapper\\mapperconverterapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\mapper\\mapperconverterapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\request\\auditlogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\request\\auditlogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\request\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\request\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\request\\stationeryitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\request\\stationeryitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\request\\rolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\request\\rolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\response\\stationeryitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\response\\stationeryitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\imp\\approvalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\imp\\approvalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\stationeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\stationeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\migrations\\20240912144002_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\migrations\\20240912144002_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\istationeryrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\istationeryrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\iapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\iapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\istationeryitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\istationeryitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\imp\\stationeryrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\imp\\stationeryrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\imp\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\imp\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\response\\notificationreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\response\\notificationreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\mapper\\mapperconverternotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\mapper\\mapperconverternotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\mapper\\mapperconverteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\mapper\\mapperconverteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\request\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\request\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\response\\roleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\response\\roleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\imp\\stationeryitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\imp\\stationeryitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\imp\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\imp\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\stationeryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\stationeryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\mapper\\mapperconverterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\mapper\\mapperconverterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\account\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\account\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\mapper\\mapperconverterstationeryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\mapper\\mapperconverterstationeryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\mapper\\mapperconverterauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\mapper\\mapperconverterauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\apivpp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\apivpp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\SourceServer\\1cebff0fd509c3c5c0b30d4967f9f214eb5b4f9a4f81bbf149cd3adf98600d4b\\ControllerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|c:\\users\\admin\\desktop\\projectkiiii\\apt_p3_g6\\apt_p3_g6\\source\\apivpp\\dtos\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE8E20-A787-4197-B794-32AC80773E44}|apiVPP\\apiVPP.csproj|solutionrelative:apivpp\\dtos\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationeryItemController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\StationeryItemController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\StationeryItemController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\StationeryItemController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\StationeryItemController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:51:40.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StationRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\StationRequestController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\StationRequestController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\StationRequestController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\StationRequestController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:42:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:27:04.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StationeryController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\StationeryController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\StationeryController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\StationeryController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\StationeryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:06:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:18:21.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:01:40.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:08:58.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\AuditLogController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\AuditLogController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:48:45.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApprovalController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\ApprovalController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\ApprovalController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\ApprovalController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\ApprovalController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAWwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:03:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "apiVPP\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswF4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:08:49.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApprovalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\ApprovalRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Request\\ApprovalRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\ApprovalRequest.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Request\\ApprovalRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:36:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Employee.cs",
+              "RelativeToolTip": "apiVPP\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:51:10.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\RoleService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\Imp\\RoleService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\RoleService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\Imp\\RoleService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAwwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:18:42.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Response\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\EmployeeResponse.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Response\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:00:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Data\\Context.cs",
+              "RelativeToolTip": "apiVPP\\Data\\Context.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwFgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:45:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Approval.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\Approval.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Approval.cs",
+              "RelativeToolTip": "apiVPP\\Models\\Approval.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:11:48.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApprovalResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\ApprovalResponse.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Response\\ApprovalResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\ApprovalResponse.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Response\\ApprovalResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:36:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuditLogResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\AuditLogResponse.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Response\\AuditLogResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\AuditLogResponse.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Response\\AuditLogResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:27:23.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240912143053_AppVPP.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Migrations\\20240912143053_AppVPP.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Migrations\\20240912143053_AppVPP.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Migrations\\20240912143053_AppVPP.cs",
+              "RelativeToolTip": "apiVPP\\Migrations\\20240912143053_AppVPP.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwGsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:30:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\AuditLog.cs",
+              "RelativeToolTip": "apiVPP\\Models\\AuditLog.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:11:19.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MapperConverterApproval.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterApproval.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Mapper\\MapperConverterApproval.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterApproval.cs",
+              "RelativeToolTip": "apiVPP\\Mapper\\MapperConverterApproval.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:45:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Request\\EmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\EmployeeRequest.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Request\\EmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:00:11.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuditLogRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\AuditLogRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Request\\AuditLogRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\AuditLogRequest.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Request\\AuditLogRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:27:34.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StationeryItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\StationeryItemRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Request\\StationeryItemRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\StationeryItemRequest.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Request\\StationeryItemRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:08:19.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\RoleRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Request\\RoleRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\RoleRequest.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Request\\RoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:17:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StationeryItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\StationeryItemResponse.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Response\\StationeryItemResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\StationeryItemResponse.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Response\\StationeryItemResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:08:10.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApprovalService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\ApprovalService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\Imp\\ApprovalService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\ApprovalService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\Imp\\ApprovalService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:29:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StationeryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\StationeryRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\StationeryRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\StationeryRequest.cs",
+              "RelativeToolTip": "apiVPP\\Models\\StationeryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:50:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240912144002_Edit.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Migrations\\20240912144002_Edit.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Migrations\\20240912144002_Edit.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Migrations\\20240912144002_Edit.cs",
+              "RelativeToolTip": "apiVPP\\Migrations\\20240912144002_Edit.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:40:02.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IApprovalService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IApprovalService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\IApprovalService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IApprovalService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\IApprovalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:44:53.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuditLogService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IAuditLogService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\IAuditLogService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IAuditLogService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\IAuditLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:36:02.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:00:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\INotificationService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:42:00.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IStationeryRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IStationeryRequestService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\IStationeryRequestService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IStationeryRequestService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\IStationeryRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:35:11.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IStationeryItemService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IStationeryItemService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\IStationeryItemService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IStationeryItemService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\IStationeryItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:36:07.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\IRoleService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\IRoleService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:18:29.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StationeryRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\StationeryRequestService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\Imp\\StationeryRequestService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\StationeryRequestService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\Imp\\StationeryRequestService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:36:08.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NotificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\NotificationRequest.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Request\\NotificationRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Request\\NotificationRequest.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Request\\NotificationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:54:02.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NotificationReponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\NotificationReponse.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Response\\NotificationReponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\NotificationReponse.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Response\\NotificationReponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:54:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Notification.cs",
+              "RelativeToolTip": "apiVPP\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:24:57.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\NotificationService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\Imp\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\NotificationService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\Imp\\NotificationService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:43:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MapperConverterEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterEmployee.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Mapper\\MapperConverterEmployee.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterEmployee.cs",
+              "RelativeToolTip": "apiVPP\\Mapper\\MapperConverterEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MapperConverterNotification.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterNotification.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Mapper\\MapperConverterNotification.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterNotification.cs",
+              "RelativeToolTip": "apiVPP\\Mapper\\MapperConverterNotification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:54:33.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\RoleResponse.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Response\\RoleResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Response\\RoleResponse.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Response\\RoleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:19:17.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StationeryItemService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\StationeryItemService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\Imp\\StationeryItemService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\StationeryItemService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\Imp\\StationeryItemService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwEUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:38:32.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Program.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Program.cs",
+              "RelativeToolTip": "apiVPP\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:50:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuditLogService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\AuditLogService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\Imp\\AuditLogService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\Imp\\AuditLogService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\Imp\\AuditLogService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:36:29.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StationeryItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\StationeryItem.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\StationeryItem.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\StationeryItem.cs",
+              "RelativeToolTip": "apiVPP\\Models\\StationeryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:25:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Services\\JWTService.cs",
+              "RelativeToolTip": "apiVPP\\Services\\JWTService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:06:52.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MapperConverterRole.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterRole.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Mapper\\MapperConverterRole.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterRole.cs",
+              "RelativeToolTip": "apiVPP\\Mapper\\MapperConverterRole.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:19:56.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Account\\LoginDto.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:09:48.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Models\\Role.cs",
+              "RelativeToolTip": "apiVPP\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:11:49.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Account\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Account\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Account\\EmployeeDto.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Account\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:00:18.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MapperConverterStationeryItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterStationeryItem.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Mapper\\MapperConverterStationeryItem.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterStationeryItem.cs",
+              "RelativeToolTip": "apiVPP\\Mapper\\MapperConverterStationeryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:09:03.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MapperConverterAuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterAuditLog.cs",
+              "RelativeDocumentMoniker": "apiVPP\\Mapper\\MapperConverterAuditLog.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\Mapper\\MapperConverterAuditLog.cs",
+              "RelativeToolTip": "apiVPP\\Mapper\\MapperConverterAuditLog.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:29:58.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "apiVPP.http",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\apiVPP.http",
+              "RelativeDocumentMoniker": "apiVPP\\apiVPP.http",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\apiVPP.http",
+              "RelativeToolTip": "apiVPP\\apiVPP.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-13T09:13:37.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "apiVPP\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\WeatherForecast.cs",
+              "RelativeToolTip": "apiVPP\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:43:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "apiVPP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\appsettings.Development.json",
+              "RelativeToolTip": "apiVPP\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T15:09:30.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\SourceServer\\1cebff0fd509c3c5c0b30d4967f9f214eb5b4f9a4f81bbf149cd3adf98600d4b\\ControllerBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1cebff0fd509c3c5c0b30d4967f9f214eb5b4f9a4f81bbf149cd3adf98600d4b\\ControllerBase.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\SourceServer\\1cebff0fd509c3c5c0b30d4967f9f214eb5b4f9a4f81bbf149cd3adf98600d4b\\ControllerBase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1cebff0fd509c3c5c0b30d4967f9f214eb5b4f9a4f81bbf149cd3adf98600d4b\\ControllerBase.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAD4v9MAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:30:11.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\appsettings.json",
+              "RelativeDocumentMoniker": "apiVPP\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\appsettings.json",
+              "RelativeToolTip": "apiVPP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T15:47:05.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Account\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "apiVPP\\DTOs\\Account\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\projectKiIII\\APT_P3_G6\\APT_P3_G6\\Source\\apiVPP\\DTOs\\Account\\ChangePasswordDto.cs",
+              "RelativeToolTip": "apiVPP\\DTOs\\Account\\ChangePasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:09:45.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

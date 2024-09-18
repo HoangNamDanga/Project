@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kiq3HVpHI1VNPVK3iDvLTV6l1H0tqZyBQpyP4EfoNAo=",
+  "Source": "apiVPP",
+  "BasePath": "_content/apiVPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
